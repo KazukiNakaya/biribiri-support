@@ -10,7 +10,7 @@
 <!-- /DOWNLOAD -->
 
 <p>
-<img src="images/iphone-01-home.png" width="32%" alt="ホーム: 部位ごとのカレンダー"><img src="images/iphone-02-setentry.png" width="32%" alt="セット入力"><img src="images/iphone-04-body.png" width="32%" alt="ボディ: 体重のグラフ">
+<img src="images/iphone-01-home.png" width="30%" alt="ホーム: 部位ごとのカレンダー">&nbsp;&nbsp;&nbsp;<img src="images/iphone-02-setentry.png" width="30%" alt="セット入力">&nbsp;&nbsp;&nbsp;<img src="images/iphone-04-body.png" width="30%" alt="ボディ: 体重のグラフ">
 </p>
 
 ---
@@ -120,7 +120,7 @@ biribiri は、筋トレ(マシン・フリーウェイト・自重)と有酸素
 ### Apple Watch
 
 <p>
-<img src="images/watch-01-today.png" width="32%" alt="Watch: 今日の記録"><img src="images/watch-02-recent.png" width="32%" alt="Watch: 最近使った種目"><img src="images/watch-03-setentry.png" width="32%" alt="Watch: セット入力">
+<img src="images/watch-01-today.png" width="30%" alt="Watch: 今日の記録">&nbsp;&nbsp;&nbsp;<img src="images/watch-02-recent.png" width="30%" alt="Watch: 最近使った種目">&nbsp;&nbsp;&nbsp;<img src="images/watch-03-setentry.png" width="30%" alt="Watch: セット入力">
 </p>
 
 iPhone を出さずに、手首で記録できます。

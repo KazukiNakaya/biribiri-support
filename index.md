@@ -6,6 +6,7 @@ title: biribiri サポート
 
 biribiri は、筋トレと有酸素運動の記録、体重の管理を行う iPhone / iPad / Apple Watch 向けのアプリです。
 
+- [アプリの紹介(できること・スクリーンショット)](https://github.com/KazukiNakaya/biribiri-support#readme)
 - [プライバシーポリシー](privacy.html)
 
 ## お問い合わせ

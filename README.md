@@ -1,8 +1,6 @@
-<div align="center">
-
 # biribiri
 
-**筋トレ・フィットネス記録**
+**筋トレ・フィットネス記録アプリ**
 
 ジムでのトレーニングを、iPhone でも Apple Watch でもすばやく記録。<br>
 部位ごとのカレンダー、推定 1RM、体重のグラフ、ヘルスケア連携、iCloud 同期に対応した、広告も会員登録もないトレーニング記録アプリです。
@@ -17,9 +15,17 @@
 <img src="images/iphone-02-setentry.png" width="200" alt="セット入力">
 <img src="images/iphone-04-body.png" width="200" alt="ボディ: 体重のグラフ">
 
-</div>
-
 ---
+
+## 動作環境
+
+| | |
+| --- | --- |
+| iPhone | iOS 17 以降 |
+| iPad | iPadOS 17 以降 |
+| Apple Watch | watchOS 10 以降(iPhone の biribiri が必要) |
+| 言語 | 日本語 |
+| 価格 | 無料 |
 
 ## どんなアプリ?
 
@@ -145,16 +151,6 @@ Watch で保存した記録は、iPhone(または iPad)の biribiri に反映さ
 - データは、あなたの端末と、あなた自身の iCloud(同期をオンにしたとき)にだけ置かれます
 
 詳しくは [プライバシーポリシー](https://kazukinakaya.github.io/biribiri-support/privacy.html) をご覧ください。
-
-## 動作環境
-
-| | |
-| --- | --- |
-| iPhone | iOS 17 以降 |
-| iPad | iPadOS 17 以降 |
-| Apple Watch | watchOS 10 以降(iPhone の biribiri が必要) |
-| 言語 | 日本語 |
-| 価格 | 無料 |
 
 ## サポート
 
